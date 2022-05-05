@@ -77,6 +77,14 @@ pub fn libafl_main() {
                 .takes_value(true),
         )
         .arg(
+            Arg::new("depth")
+                .short('d')
+                .long("depth")
+                .help("depth")
+                .takes_value(true)
+                .default_value("65")
+        )
+        .arg(
             Arg::new("grammar")
                 .short('g')
                 .long("grammar")
@@ -127,7 +135,12 @@ pub fn libafl_main() {
         println!("{:?} is not a valid file!", &grammar_path);
         return;
     }
-    let context = NautilusContext::from_file(10000, grammar_path);
+
+    let depth = res.value_of("depth").unwrap()
+        .to_string()
+        .parse()
+        .expect("Could not parse timeout in milliseconds");
+    let context = NautilusContext::from_file(depth, grammar_path);
 
     if let Some(filenames) = res.values_of("remaining") {
         let filenames: Vec<&str> = filenames.collect();

@@ -316,7 +316,9 @@
     "AltRule215"
   ],
   "BlockRule1709": [
-    "AltRule1710 ' ' AltRule1711 ' ' AltRule1712"
+    "AltRule1710",
+    "AltRule1711",
+    "AltRule1712"
   ],
   "AltRule252": [
     "'catch'"
@@ -372,7 +374,8 @@
     "AltRule687"
   ],
   "BlockRule201": [
-    "AltRule202 AltRule206"
+    "AltRule202",
+    "AltRule206"
   ],
   "WildCard125": [
     "' '",
@@ -483,7 +486,8 @@
     "AltRule690"
   ],
   "BlockRule203": [
-    "AltRule204 AltRule205"
+    "AltRule204",
+    "AltRule205"
   ],
   "AltRule264": [
     "'default'"
@@ -507,7 +511,10 @@
     "OptionalRule97 '\"'"
   ],
   "BlockRule1720": [
-    "AltRule1721 ' ' AltRule1722 ' ' AltRule1723 ' ' AltRule1724"
+    "AltRule1721",
+    "AltRule1722",
+    "AltRule1723",
+    "AltRule1724"
   ],
   "AltRule95": [
     "AltRule96 ' '"
@@ -649,7 +656,8 @@
     "BlockRule19"
   ],
   "BlockRule1744": [
-    "AltRule1745 ' ' AltRule1746"
+    "AltRule1745",
+    "AltRule1746"
   ],
   "New": [
     "BlockRule354"
@@ -721,7 +729,8 @@
     "'final'"
   ],
   "BlockRule1733": [
-    "AltRule1734 ' ' AltRule1738"
+    "AltRule1734",
+    "AltRule1738"
   ],
   "BlockRule1731": [
     "AltRule1732"
@@ -768,13 +777,15 @@
     "arrayItemList ' ' OptionalRule1637"
   ],
   "BlockRule1739": [
-    "AltRule1740 ' ' AltRule1741"
+    "AltRule1740",
+    "AltRule1741"
   ],
   "CommentQuestionMark": [
     "BlockRule721"
   ],
   "BlockRule242": [
-    "AltRule243 AltRule244"
+    "AltRule243",
+    "AltRule244"
   ],
   "BlockRule1736": [
     "AltRule1737"
@@ -786,7 +797,8 @@
     "AltRule1765"
   ],
   "BlockRule1761": [
-    "AltRule1762 ' ' AltRule1766"
+    "AltRule1762",
+    "AltRule1766"
   ],
   "AltRule1608": [
     "'(' ' ' OptionalRule1609 ' ' OptionalRule1616 ' ' ')'"
@@ -825,7 +837,8 @@
     "AltRule1768"
   ],
   "BlockRule1755": [
-    "AltRule1756 ' ' AltRule1757"
+    "AltRule1756",
+    "AltRule1757"
   ],
   "BlockRule1753": [
     "AltRule1754"
@@ -890,7 +903,10 @@
     "' '"
   ],
   "BlockRule1666": [
-    "AltRule1667 ' ' AltRule1668 ' ' AltRule1669 ' ' AltRule1670"
+    "AltRule1667",
+    "AltRule1668",
+    "AltRule1669",
+    "AltRule1670"
   ],
   "AltRule776": [
     "' '"
@@ -903,7 +919,8 @@
     "' '"
   ],
   "BlockRule1663": [
-    "AltRule1664 ' ' AltRule1671"
+    "AltRule1664",
+    "AltRule1671"
   ],
   "AltRule33": [
     "WildCard34"
@@ -928,7 +945,8 @@
     "BlockRule502"
   ],
   "BlockRule734": [
-    "AltRule735 AltRule739"
+    "AltRule735",
+    "AltRule739"
   ],
   "OptionalRule1210": [
     "BlockRule1211",
@@ -974,7 +992,10 @@
     "' '"
   ],
   "BlockRule1655": [
-    "AltRule1656 ' ' AltRule1657 ' ' AltRule1658 ' ' AltRule1659"
+    "AltRule1656",
+    "AltRule1657",
+    "AltRule1658",
+    "AltRule1659"
   ],
   "AltRule787": [
     "IntervalRule788"
@@ -1070,7 +1091,10 @@
     "' '"
   ],
   "BlockRule1681": [
-    "AltRule1682 ' ' AltRule1686 ' ' AltRule1690 ' ' AltRule1691"
+    "AltRule1682",
+    "AltRule1686",
+    "AltRule1690",
+    "AltRule1691"
   ],
   "AltRule17": [
     "AltRule18 ' ' ' '"
@@ -1329,7 +1353,8 @@
     "'insteadof'"
   ],
   "BlockRule1676": [
-    "AltRule1677 ' ' AltRule1678"
+    "AltRule1677",
+    "AltRule1678"
   ],
   "AltRule324": [
     "'instanceof'"
@@ -1355,7 +1380,9 @@
     "' '"
   ],
   "BlockRule1672": [
-    "AltRule1673 ' ' AltRule1674 ' ' AltRule1675"
+    "AltRule1673",
+    "AltRule1674",
+    "AltRule1675"
   ],
   "XmlText2": [
     "BlockRule70"
@@ -1370,7 +1397,8 @@
     "BlockRule185"
   ],
   "BlockRule747": [
-    "AltRule748 AltRule752"
+    "AltRule748",
+    "AltRule752"
   ],
   "AltRule26": [
     "AltRule27 ' '"
@@ -1396,7 +1424,8 @@
     "BlockRule724"
   ],
   "BlockRule742": [
-    "AltRule743 AltRule744"
+    "AltRule743",
+    "AltRule744"
   ],
   "AltRule322": [
     "'include_once'"
@@ -1521,7 +1550,9 @@
     "AltRule1212"
   ],
   "BlockRule1695": [
-    "AltRule1696 ' ' AltRule1697 ' ' AltRule1698"
+    "AltRule1696",
+    "AltRule1697",
+    "AltRule1698"
   ],
   "AltRule87": [
     "'='"
@@ -1530,7 +1561,12 @@
     "AltRule1694"
   ],
   "BlockRule769": [
-    "AltRule770 AltRule772 AltRule773 AltRule774 AltRule775 AltRule776"
+    "AltRule770",
+    "AltRule772",
+    "AltRule773",
+    "AltRule774",
+    "AltRule775",
+    "AltRule776"
   ],
   "formalParameterList": [
     "BlockRule1197"
@@ -1635,7 +1671,14 @@
     "'\r'"
   ],
   "BlockRule760": [
-    "AltRule761 AltRule762 AltRule763 AltRule764 AltRule765 AltRule766 AltRule767 AltRule768"
+    "AltRule761",
+    "AltRule762",
+    "AltRule763",
+    "AltRule764",
+    "AltRule765",
+    "AltRule766",
+    "AltRule767",
+    "AltRule768"
   ],
   "AltRule341": [
     "'isset'"
@@ -1683,7 +1726,9 @@
     "NotRule56"
   ],
   "BlockRule1242": [
-    "AltRule1243 ' ' AltRule1244 ' ' AltRule1245"
+    "AltRule1243",
+    "AltRule1244",
+    "AltRule1245"
   ],
   "PHPStartDoubleQuoteString": [
     "BlockRule151"
@@ -1765,7 +1810,9 @@
     "AltRule310"
   ],
   "BlockRule1230": [
-    "AltRule1231 ' ' AltRule1232 ' ' AltRule1233"
+    "AltRule1231",
+    "AltRule1232",
+    "AltRule1233"
   ],
   "AltRule69": [
     "'?>'"
@@ -1959,7 +2006,8 @@
     "BlockRule1785"
   ],
   "BlockRule1258": [
-    "AltRule1259 ' ' AltRule1266"
+    "AltRule1259",
+    "AltRule1266"
   ],
   "ShiftLeft": [
     "BlockRule524"
@@ -1974,7 +2022,8 @@
     "'&'"
   ],
   "BlockRule1253": [
-    "AltRule1254 ' ' AltRule1288"
+    "AltRule1254",
+    "AltRule1288"
   ],
   "BlockRule1251": [
     "AltRule1252"
@@ -2001,7 +2050,8 @@
     "NotRule711"
   ],
   "BlockRule1289": [
-    "AltRule1290 ' ' AltRule1291"
+    "AltRule1290",
+    "AltRule1291"
   ],
   "AltRule714": [
     "PlusRule715"
@@ -2081,7 +2131,8 @@
     "StarRule730 BlockRule734"
   ],
   "BlockRule1270": [
-    "AltRule1271 ' ' AltRule1278"
+    "AltRule1271",
+    "AltRule1278"
   ],
   "AltRule1259": [
     "propertyModifiers ' ' OptionalRule1260 ' ' variableInitializer ' ' StarRule1263 ' ' SemiColon"
@@ -2153,7 +2204,8 @@
     "'<' BlockRule747"
   ],
   "BlockRule1295": [
-    "AltRule1296 ' ' AltRule1297"
+    "AltRule1296",
+    "AltRule1297"
   ],
   "BlockRule1293": [
     "AltRule1294"
@@ -3231,7 +3283,8 @@
     "BlockRule311"
   ],
   "BlockRule1610": [
-    "AltRule1611 ' ' AltRule1615"
+    "AltRule1611",
+    "AltRule1615"
   ],
   "Octal": [
     "BlockRule601"
@@ -3283,7 +3336,8 @@
     "AltRule187 ' ' ' '"
   ],
   "BlockRule1619": [
-    "AltRule1620 ' ' AltRule1627"
+    "AltRule1620",
+    "AltRule1627"
   ],
   "NotRule175": [
     "' '",
@@ -3436,7 +3490,9 @@
     "'<'"
   ],
   "BlockRule397": [
-    "AltRule398 AltRule399 AltRule400"
+    "AltRule398",
+    "AltRule399",
+    "AltRule400"
   ],
   "AltRule193": [
     "StarRule194 '</' OptionalRule198 '>'"
@@ -3557,7 +3613,11 @@
     "' '"
   ],
   "BlockRule1649": [
-    "AltRule1650 ' ' AltRule1651 ' ' AltRule1652 ' ' AltRule1653 ' ' AltRule1654"
+    "AltRule1650",
+    "AltRule1651",
+    "AltRule1652",
+    "AltRule1653",
+    "AltRule1654"
   ],
   "assignmentListElement": [
     "BlockRule1778"
@@ -3569,7 +3629,11 @@
     "BlockRule1038"
   ],
   "BlockRule1630": [
-    "AltRule1631 ' ' AltRule1632 ' ' AltRule1633 ' ' AltRule1640 ' ' AltRule1647"
+    "AltRule1631",
+    "AltRule1632",
+    "AltRule1633",
+    "AltRule1640",
+    "AltRule1647"
   ],
   "Error": [
     "BlockRule57"
@@ -3653,7 +3717,12 @@
     "BlockRule645"
   ],
   "BlockRule850": [
-    "AltRule851 ' ' AltRule852 ' ' AltRule853 ' ' AltRule854 ' ' AltRule855 ' ' AltRule856"
+    "AltRule851",
+    "AltRule852",
+    "AltRule853",
+    "AltRule854",
+    "AltRule855",
+    "AltRule856"
   ],
   "OptionalRule1575": [
     "BlockRule1576",
@@ -3669,7 +3738,8 @@
     "'\\'' StarRule653 '\\''"
   ],
   "BlockRule1547": [
-    "AltRule1548 ' ' AltRule1558"
+    "AltRule1548",
+    "AltRule1558"
   ],
   "AltRule667": [
     "IntervalRule668"
@@ -3740,7 +3810,8 @@
     "AltRule1561"
   ],
   "BlockRule878": [
-    "AltRule879 ' ' AltRule886"
+    "AltRule879",
+    "AltRule886"
   ],
   "BlockRule872": [
     "AltRule873"
@@ -3896,7 +3967,8 @@
     "AltRule420"
   ],
   "BlockRule1581": [
-    "AltRule1582 ' ' AltRule1583"
+    "AltRule1582",
+    "AltRule1583"
   ],
   "BlockRule417": [
     "AltRule418"
@@ -4006,7 +4078,11 @@
     "AltRule404"
   ],
   "BlockRule887": [
-    "AltRule888 ' ' AltRule889 ' ' AltRule890 ' ' AltRule891 ' ' AltRule892"
+    "AltRule888",
+    "AltRule889",
+    "AltRule890",
+    "AltRule891",
+    "AltRule892"
   ],
   "OptionalRule1541": [
     "BlockRule1542",
@@ -4126,7 +4202,8 @@
     "BlockRule214"
   ],
   "BlockRule1110": [
-    "AltRule1111 ' ' AltRule1112"
+    "AltRule1111",
+    "AltRule1112"
   ],
   "OptionalRule1555": [
     "BlockRule1556",
@@ -4146,7 +4223,8 @@
     "AltRule428"
   ],
   "BlockRule1590": [
-    "AltRule1591 ' ' AltRule1595"
+    "AltRule1591",
+    "AltRule1595"
   ],
   "OptionalRule1559": [
     "BlockRule1560",
@@ -4231,7 +4309,9 @@
     "AltRule1139"
   ],
   "BlockRule1135": [
-    "AltRule1136 ' ' AltRule1146 ' ' AltRule1153"
+    "AltRule1136",
+    "AltRule1146",
+    "AltRule1153"
   ],
   "AltRule1160": [
     "PlusRule1161 ' ' OptionalRule1164"
@@ -4524,7 +4604,8 @@
     "'0' PlusRule603"
   ],
   "BlockRule1159": [
-    "AltRule1160 ' ' AltRule1167"
+    "AltRule1160",
+    "AltRule1167"
   ],
   "BlockRule1157": [
     "AltRule1158"
@@ -4533,7 +4614,8 @@
     "IntervalRule606"
   ],
   "BlockRule1154": [
-    "AltRule1155 ' ' AltRule1156"
+    "AltRule1155",
+    "AltRule1156"
   ],
   "AltRule609": [
     "NonZeroDigit StarRule610"
@@ -4588,7 +4670,8 @@
     "Digit"
   ],
   "BlockRule1184": [
-    "AltRule1185 ' ' AltRule1186"
+    "AltRule1185",
+    "AltRule1186"
   ],
   "BlockRule1182": [
     "AltRule1183"
@@ -4597,7 +4680,27 @@
     "AltRule1181"
   ],
   "BlockRule810": [
-    "AltRule811 ' ' AltRule812 ' ' AltRule813 ' ' AltRule814 ' ' AltRule815 ' ' AltRule816 ' ' AltRule817 ' ' AltRule818 ' ' AltRule819 ' ' AltRule820 ' ' AltRule821 ' ' AltRule822 ' ' AltRule823 ' ' AltRule824 ' ' AltRule825 ' ' AltRule826 ' ' AltRule827 ' ' AltRule828 ' ' AltRule829 ' ' AltRule830 ' ' AltRule831"
+    "AltRule811",
+    "AltRule812",
+    "AltRule813",
+    "AltRule814",
+    "AltRule815",
+    "AltRule816",
+    "AltRule817",
+    "AltRule818",
+    "AltRule819",
+    "AltRule820",
+    "AltRule821",
+    "AltRule822",
+    "AltRule823",
+    "AltRule824",
+    "AltRule825",
+    "AltRule826",
+    "AltRule827",
+    "AltRule828",
+    "AltRule829",
+    "AltRule830",
+    "AltRule831"
   ],
   "StarRule53": [
     "BlockRule54",
@@ -4643,7 +4746,8 @@
     "BlockRule376"
   ],
   "BlockRule804": [
-    "AltRule805 ' ' AltRule809"
+    "AltRule805",
+    "AltRule809"
   ],
   "OptionalRule1137": [
     "BlockRule1138",
@@ -4661,7 +4765,8 @@
     "ExponentPart"
   ],
   "BlockRule801": [
-    "AltRule802 ' ' AltRule803"
+    "AltRule802",
+    "AltRule803"
   ],
   "BlockRule1171": [
     "AltRule1172"
@@ -5891,16 +5996,21 @@
     "AltRule487"
   ],
   "BlockRule483": [
-    "AltRule484 AltRule485"
+    "AltRule484",
+    "AltRule485"
   ],
   "BlockRule481": [
     "AltRule482"
   ],
   "BlockRule1524": [
-    "AltRule1525 ' ' AltRule1526"
+    "AltRule1525",
+    "AltRule1526"
   ],
   "BlockRule1522": [
-    "AltRule1523 ' ' AltRule1530 ' ' AltRule1531 ' ' AltRule1532"
+    "AltRule1523",
+    "AltRule1530",
+    "AltRule1531",
+    "AltRule1532"
   ],
   "matchExpr": [
     "BlockRule1460"
@@ -5940,7 +6050,8 @@
     "AltRule1520"
   ],
   "BlockRule1516": [
-    "AltRule1517 ' ' AltRule1521"
+    "AltRule1517",
+    "AltRule1521"
   ],
   "BlockRule1514": [
     "AltRule1515"
@@ -5979,7 +6090,8 @@
     "' '"
   ],
   "BlockRule977": [
-    "AltRule978 ' ' AltRule979"
+    "AltRule978",
+    "AltRule979"
   ],
   "StarRule942": [
     "BlockRule943",
@@ -6012,7 +6124,8 @@
     "'->'"
   ],
   "BlockRule1428": [
-    "AltRule1429 ' ' AltRule1430"
+    "AltRule1429",
+    "AltRule1430"
   ],
   "AltRule547": [
     "'^'"
@@ -6076,7 +6189,8 @@
     "BlockRule166"
   ],
   "BlockRule1445": [
-    "AltRule1446 ' ' AltRule1459"
+    "AltRule1446",
+    "AltRule1459"
   ],
   "AltRule555": [
     "'%'"
@@ -6182,7 +6296,8 @@
     "BlockRule1511"
   ],
   "BlockRule1433": [
-    "AltRule1434 ' ' AltRule1438"
+    "AltRule1434",
+    "AltRule1438"
   ],
   "unsetStatement": [
     "BlockRule1131"
@@ -6436,7 +6551,8 @@
     "BlockRule706"
   ],
   "BlockRule1483": [
-    "AltRule1484 ' ' AltRule1488"
+    "AltRule1484",
+    "AltRule1488"
   ],
   "BlockRule1481": [
     "AltRule1482"
@@ -6492,7 +6608,9 @@
     "IntervalRule596 StarRule597"
   ],
   "BlockRule1008": [
-    "AltRule1009 ' ' AltRule1010 ' ' AltRule1011"
+    "AltRule1009",
+    "AltRule1010",
+    "AltRule1011"
   ],
   "StarRule995": [
     "BlockRule996",
@@ -6699,10 +6817,33 @@
     "SetRule947"
   ],
   "BlockRule1497": [
-    "AltRule1498 ' ' AltRule1502"
+    "AltRule1498",
+    "AltRule1502"
   ],
   "BlockRule1012": [
-    "AltRule1013 ' ' AltRule1014 ' ' AltRule1015 ' ' AltRule1016 ' ' AltRule1017 ' ' AltRule1018 ' ' AltRule1019 ' ' AltRule1020 ' ' AltRule1021 ' ' AltRule1022 ' ' AltRule1023 ' ' AltRule1024 ' ' AltRule1025 ' ' AltRule1026 ' ' AltRule1027 ' ' AltRule1028 ' ' AltRule1029 ' ' AltRule1030 ' ' AltRule1031 ' ' AltRule1032 ' ' AltRule1033 ' ' AltRule1034 ' ' AltRule1035"
+    "AltRule1013",
+    "AltRule1014",
+    "AltRule1015",
+    "AltRule1016",
+    "AltRule1017",
+    "AltRule1018",
+    "AltRule1019",
+    "AltRule1020",
+    "AltRule1021",
+    "AltRule1022",
+    "AltRule1023",
+    "AltRule1024",
+    "AltRule1025",
+    "AltRule1026",
+    "AltRule1027",
+    "AltRule1028",
+    "AltRule1029",
+    "AltRule1030",
+    "AltRule1031",
+    "AltRule1032",
+    "AltRule1033",
+    "AltRule1034",
+    "AltRule1035"
   ],
   "AltRule944": [
     "classStatement"
@@ -6774,7 +6915,8 @@
     "AltRule914"
   ],
   "BlockRule1040": [
-    "AltRule1041 ' ' AltRule1048"
+    "AltRule1041",
+    "AltRule1048"
   ],
   "BlockRule916": [
     "AltRule917"
@@ -6919,7 +7061,8 @@
     "qualifiedStaticTypeRef"
   ],
   "BlockRule1065": [
-    "AltRule1066 ' ' AltRule1067"
+    "AltRule1066",
+    "AltRule1067"
   ],
   "Include": [
     "BlockRule319"
@@ -7017,7 +7160,8 @@
     "AltRule1056"
   ],
   "BlockRule924": [
-    "AltRule925 ' ' AltRule935"
+    "AltRule925",
+    "AltRule935"
   ],
   "BlockRule1053": [
     "AltRule1054"
@@ -7192,16 +7336,20 @@
     "BlockRule471"
   ],
   "BlockRule1081": [
-    "AltRule1082 ' ' AltRule1083"
+    "AltRule1082",
+    "AltRule1083"
   ],
   "BlockRule1090": [
-    "AltRule1091 ' ' AltRule1098"
+    "AltRule1091",
+    "AltRule1098"
   ],
   "AltRule1048": [
     "If ' ' parentheses ' ' ':' ' ' innerStatementList ' ' StarRule1049 ' ' OptionalRule1052 ' ' EndIf ' ' SemiColon"
   ],
   "BlockRule953": [
-    "AltRule954 ' ' AltRule955 ' ' AltRule956"
+    "AltRule954",
+    "AltRule955",
+    "AltRule956"
   ],
   "BlockRule951": [
     "AltRule952"
@@ -7999,7 +8147,8 @@
     "StarRule1752 ' ' BlockRule1755 ' ' StarRule1758"
   ],
   "BlockRule1402": [
-    "AltRule1403 ' ' AltRule1404"
+    "AltRule1403",
+    "AltRule1404"
   ],
   "Require": [
     "BlockRule372"
@@ -8047,7 +8196,24 @@
     "AltRule155"
   ],
   "BlockRule1406": [
-    "AltRule1407 ' ' AltRule1408 ' ' AltRule1409 ' ' AltRule1410 ' ' AltRule1411 ' ' AltRule1412 ' ' AltRule1413 ' ' AltRule1414 ' ' AltRule1415 ' ' AltRule1416 ' ' AltRule1417 ' ' AltRule1418 ' ' AltRule1422 ' ' AltRule1423 ' ' AltRule1424 ' ' AltRule1425 ' ' AltRule1426 ' ' AltRule1427"
+    "AltRule1407",
+    "AltRule1408",
+    "AltRule1409",
+    "AltRule1410",
+    "AltRule1411",
+    "AltRule1412",
+    "AltRule1413",
+    "AltRule1414",
+    "AltRule1415",
+    "AltRule1416",
+    "AltRule1417",
+    "AltRule1418",
+    "AltRule1422",
+    "AltRule1423",
+    "AltRule1424",
+    "AltRule1425",
+    "AltRule1426",
+    "AltRule1427"
   ],
   "BlockRule151": [
     "AltRule152"
@@ -8108,7 +8274,8 @@
     "attributes"
   ],
   "BlockRule1302": [
-    "AltRule1303 ' ' AltRule1304"
+    "AltRule1303",
+    "AltRule1304"
   ],
   "AltRule412": [
     "'yield'"
@@ -8129,7 +8296,8 @@
     "'fn'"
   ],
   "BlockRule615": [
-    "AltRule616 AltRule623"
+    "AltRule616",
+    "AltRule623"
   ],
   "NamespaceSeparator": [
     "BlockRule532"
@@ -8138,7 +8306,8 @@
     "AltRule619"
   ],
   "BlockRule613": [
-    "AltRule614 AltRule630"
+    "AltRule614",
+    "AltRule630"
   ],
   "OptionalRule1331": [
     "BlockRule1332",
@@ -8267,7 +8436,8 @@
     "BlockRule1573"
   ],
   "BlockRule607": [
-    "AltRule608 AltRule609"
+    "AltRule608",
+    "AltRule609"
   ],
   "IntervalRule701": [
     "'0'",
@@ -8343,7 +8513,9 @@
     "'__set'"
   ],
   "BlockRule1778": [
-    "AltRule1779 ' ' AltRule1780 ' ' AltRule1781"
+    "AltRule1779",
+    "AltRule1780",
+    "AltRule1781"
   ],
   "AltRule436": [
     "'__isset'"
@@ -8355,7 +8527,8 @@
     "'__autoload'"
   ],
   "BlockRule1321": [
-    "AltRule1322 ' ' AltRule1323"
+    "AltRule1322",
+    "AltRule1323"
   ],
   "AltRule438": [
     "'__unset'"
@@ -8457,7 +8630,8 @@
     "'__set_state'"
   ],
   "BlockRule1318": [
-    "AltRule1319 ' ' AltRule1320"
+    "AltRule1319",
+    "AltRule1320"
   ],
   "AltRule442": [
     "'__invoke'"
@@ -139451,7 +139625,8 @@
     "AltRule14"
   ],
   "BlockRule654": [
-    "AltRule655 AltRule657"
+    "AltRule655",
+    "AltRule657"
   ],
   "StartHereDoc": [
     "BlockRule669"
@@ -139573,7 +139748,35 @@
     "'\r'"
   ],
   "BlockRule1356": [
-    "AltRule1357 ' ' AltRule1358 ' ' AltRule1359 ' ' AltRule1360 ' ' AltRule1361 ' ' AltRule1363 ' ' AltRule1365 ' ' AltRule1367 ' ' AltRule1369 ' ' AltRule1370 ' ' AltRule1371 ' ' AltRule1372 ' ' AltRule1373 ' ' AltRule1374 ' ' AltRule1375 ' ' AltRule1376 ' ' AltRule1377 ' ' AltRule1378 ' ' AltRule1379 ' ' AltRule1380 ' ' AltRule1381 ' ' AltRule1382 ' ' AltRule1387 ' ' AltRule1389 ' ' AltRule1391 ' ' AltRule1392 ' ' AltRule1393 ' ' AltRule1394 ' ' AltRule1398"
+    "AltRule1357",
+    "AltRule1358",
+    "AltRule1359",
+    "AltRule1360",
+    "AltRule1361",
+    "AltRule1363",
+    "AltRule1365",
+    "AltRule1367",
+    "AltRule1369",
+    "AltRule1370",
+    "AltRule1371",
+    "AltRule1372",
+    "AltRule1373",
+    "AltRule1374",
+    "AltRule1375",
+    "AltRule1376",
+    "AltRule1377",
+    "AltRule1378",
+    "AltRule1379",
+    "AltRule1380",
+    "AltRule1381",
+    "AltRule1382",
+    "AltRule1387",
+    "AltRule1389",
+    "AltRule1391",
+    "AltRule1392",
+    "AltRule1393",
+    "AltRule1394",
+    "AltRule1398"
   ],
   "BlockRule1354": [
     "AltRule1355"
@@ -139582,7 +139785,8 @@
     "BlockRule874"
   ],
   "BlockRule1351": [
-    "AltRule1352 ' ' AltRule1353"
+    "AltRule1352",
+    "AltRule1353"
   ],
   "OptionalRule1315": [
     "BlockRule1316",
@@ -139653,7 +139857,8 @@
     "HtmlEquals"
   ],
   "BlockRule1384": [
-    "AltRule1385 ' ' AltRule1386"
+    "AltRule1385",
+    "AltRule1386"
   ],
   "AltRule818": [
     "HtmlText"

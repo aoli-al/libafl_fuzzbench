@@ -127,7 +127,7 @@ pub fn libafl_main() {
         println!("{:?} is not a valid file!", &grammar_path);
         return;
     }
-    let context = NautilusContext::from_file(64, grammar_path);
+    let context = NautilusContext::from_file(10000, grammar_path);
 
     if let Some(filenames) = res.values_of("remaining") {
         let filenames: Vec<&str> = filenames.collect();

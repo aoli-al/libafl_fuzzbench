@@ -78,7 +78,6 @@ pub fn libafl_main() {
         )
         .arg(
             Arg::new("depth")
-                .short('d')
                 .long("depth")
                 .help("depth")
                 .takes_value(true)

@@ -2,11 +2,15 @@
 //! The example harness is built for libpng.
 //! In this example, you will see the use of the `launcher` feature.
 //! The `launcher` will spawn new processes for each cpu core.
+
+
+mod monitor;
 use mimalloc::MiMalloc;
 #[global_allocator]
 static GLOBAL: MiMalloc = MiMalloc;
 
 use clap::{App, Arg};
+use monitor::CoverageMonitor;
 use core::time::Duration;
 #[cfg(unix)]
 use nix::{self, unistd::dup};
@@ -38,7 +42,6 @@ use libafl::{
     fuzzer::{Fuzzer, StdFuzzer},
     generators::{NautilusContext, NautilusGenerator},
     inputs::{Input, NautilusInput},
-    monitors::SimpleMonitor,
     mutators::{
         NautilusRandomMutator, NautilusRecursionMutator, NautilusSpliceMutator, StdScheduledMutator,
     },
@@ -78,7 +81,6 @@ pub fn libafl_main() {
         )
         .arg(
             Arg::new("depth")
-                .short('d')
                 .long("depth")
                 .help("depth")
                 .takes_value(true)
@@ -241,11 +243,9 @@ fn fuzz(
     let file_null = File::open("/dev/null")?;
 
     // 'While the monitor are state, they are usually used in the broker - which is likely never restarted
-    let monitor = SimpleMonitor::new(|s| {
+    let monitor = CoverageMonitor::new(|s| {
         #[cfg(unix)]
         writeln!(&mut stdout_cpy, "{}", s).unwrap();
-        #[cfg(windows)]
-        println!("{}", s);
     });
 
     // We need a shared map to store our state before a crash.

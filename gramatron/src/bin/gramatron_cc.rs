@@ -19,7 +19,7 @@ pub fn main() {
         if let Some(code) = cc
             .cpp(is_cpp)
             // silence the compiler wrapper output, needed for some configure scripts.
-            .silence(true)
+            .silence(false)
             // add arguments only if --libafl or --libafl-no-link are present
             .need_libafl_arg(true)
             .parse_args(&args)

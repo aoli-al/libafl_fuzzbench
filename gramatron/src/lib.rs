@@ -237,6 +237,7 @@ fn fuzz(
         println!("{}", s);
     });
 
+
     // We need a shared map to store our state before a crash.
     // This way, we are able to continue fuzzing afterwards.
     let mut shmem_provider = StdShMemProvider::new()?;
